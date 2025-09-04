@@ -40,7 +40,7 @@ aula16ex/ → Projetos e desafios
 
 ## 🛠 Tecnologias Utilizadas
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://github.com/CSS-Next/logo.css/blob/main/css.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
