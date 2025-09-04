@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.cursoemvideo.com/curso/javascript/">
-    <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/javascript.jpg" alt="Banner Curso de JavaScript" width="800" style="border-radius: 12px;">
+    <img src="/assets/logo-curso-em-video-js.png" alt="Banner Curso de JavaScript" width="800" style="border-radius: 12px;">
   </a>
 </div>
 
@@ -41,9 +41,16 @@ aula16ex/ → Projetos e desafios
 ---
 
 ## 🛠 Tecnologias Utilizadas
-- **HTML5** — Estrutura das páginas
-- **CSS3** — Estilização e layout
-- **JavaScript (ES6+)** — Lógica e interatividade
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://github.com/CSS-Next/logo.css/blob/main/css.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</div>
+
+- **HTML5** — Estrutura das páginas  
+- **CSS3** — Estilização e layout  
+- **JavaScript (ES6+)** — Lógica e interatividade  
 
 ---
 
