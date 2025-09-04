@@ -46,10 +46,6 @@ aula16ex/ → Projetos e desafios
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </div>
 
-- **HTML5** — Estrutura das páginas  
-- **CSS3** — Estilização e layout  
-- **JavaScript (ES6+)** — Lógica e interatividade  
-
 ---
 
 ## ▶️ Aulas em Vídeo
