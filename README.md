@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://www.cursoemvideo.com/curso/javascript/">
-    <img src="/assets/logo-curso-em-video-js.png" alt="Banner Curso de JavaScript" width="800" style="border-radius: 12px;">
-  </a>
+  <img src="/assets/curso-video-js.gif" alt="Vinheta curso em Vídeo JavaScript" width="500">
 </div>
 
 # 📚 Curso de JavaScript — Curso em Vídeo
