@@ -21,7 +21,7 @@ Consolidar o aprendizado em **JavaScript** por meio de aulas teóricas e prátic
 - Condições e estruturas de repetição
 - Funções e eventos
 - Sintaxe moderna (ES6+)
-- Aplicações práticas no navegador e com Node.js
+- Aplicações práticas no navegador
 
 ---
 
