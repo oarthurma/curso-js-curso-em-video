@@ -15,7 +15,9 @@ O curso é **gratuito**, 100% online e aborda desde os fundamentos da linguagem 
 ---
 
 ## 🚀 Objetivo
+
 Consolidar o aprendizado em **JavaScript** por meio de aulas teóricas e práticas, explorando:
+
 - Fundamentos da linguagem
 - Manipulação do DOM
 - Condições e estruturas de repetição
@@ -26,15 +28,15 @@ Consolidar o aprendizado em **JavaScript** por meio de aulas teóricas e prátic
 ---
 
 ## 📂 Estrutura do Repositório
+
 Cada pasta corresponde a uma aula ou exercício do curso:
 
-aula04/ → Introdução e primeiros scripts 
-aula06/ → Manipulação básica do DOM 
-aula09/ → Estruturas condicionais 
-aula12ex/ → Exercícios práticos 
-aula16ex/ → Projetos e desafios 
+aula04/ → Introdução e primeiros scripts
+aula06/ → Manipulação básica do DOM
+aula09/ → Estruturas condicionais
+aula12ex/ → Exercícios práticos
+aula16ex/ → Projetos e desafios
 ...
-
 
 ---
 
@@ -48,28 +50,36 @@ aula16ex/ → Projetos e desafios
 
 ---
 
+## Certificado
+
+Concluí o curso de JavaScript do [Curso em Vídeo](https://www.cursoemvideo.com).  
+🔗 [Visualizar certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=2686c19df8) _(pode não estar disponível em todos os momentos)_
+
+---
+
 ## ▶️ Aulas em Vídeo
+
 Você pode acompanhar todas as aulas gratuitamente na **[playlist oficial no YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)**.
 
 ---
 
 ## 📌 Como Usar
+
 1. **Clone o repositório**
-git clone https://github.com/oarthurma/curso-js-curso-em-video.git
+   git clone https://github.com/oarthurma/curso-js-curso-em-video.git
 
 2. **Acesse a pasta desejada**
-cd curso-js-curso-em-video/aulaXX
+   cd curso-js-curso-em-video/aulaXX
 
 3. **Abra o arquivo HTML no navegador** para visualizar o resultado.
 
 ---
 
 ## 📜 Licença
+
 Este repositório é de uso educacional, seguindo os termos e direitos do autor do curso.  
 Para mais informações, acesse o [site oficial do Curso em Vídeo](https://www.cursoemvideo.com/curso/javascript/).
 
 ---
 
 💡 **Dica:** Aproveite para praticar modificando os códigos e criando suas próprias variações. A melhor forma de aprender programação é **fazendo**!
-
-
