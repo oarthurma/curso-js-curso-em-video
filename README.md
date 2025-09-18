@@ -50,10 +50,10 @@ aula16ex/ → Projetos e desafios
 
 ---
 
-## Certificado
+## 🏆 Certificado
 
-Concluí o curso de JavaScript do [Curso em Vídeo](https://www.cursoemvideo.com).  
-🔗 [Visualizar certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=2686c19df8) _(pode não estar disponível em todos os momentos)_
+Concluí o curso de JavaScript do [Curso em Vídeo](https://www.cursoemvideo.com) com **40 horas** de duração.  
+📜 **[Visualizar Certificado](./assets/Arthur-Martins-Alves-Javascript-40-Horas-Certificado-Curso-em-Video.pdf)** | **Código:** CA4C-6C61-4
 
 ---
 
