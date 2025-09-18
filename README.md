@@ -55,6 +55,7 @@ aula16ex/ → Projetos e desafios
 Concluí o curso de JavaScript do [Curso em Vídeo](https://www.cursoemvideo.com) com **40 horas** de duração.  
 📜 **[Visualizar Certificado](./assets/Arthur-Martins-Alves-Javascript-40-Horas-Certificado-Curso-em-Video.pdf)** | **Código:** CA4C-6C61-4
 
+🔍 **[Validar Certificado](https://www.cursoemvideo.com/validacao-de-certificado/)** 
 ---
 
 ## ▶️ Aulas em Vídeo
